@@ -1,7 +1,7 @@
 {
-  "name": "truncator",
+  "name": "utils",
   "version": "0.1.0",
-  "homepage": "http://jonathansandman.github.io/truncator",
+  "homepage": "http://jonathansandman.github.io/utils",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
